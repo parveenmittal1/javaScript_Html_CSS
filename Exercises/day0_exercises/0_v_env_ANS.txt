@@ -1,0 +1,5 @@
+1//coz it called first and it is defind 1
+2//coz a=2 is definf in y function 
+undefind //coza is not defind 
+
+ANSWER 1 2 undefined

@@ -1,0 +1,71 @@
+<p></p>
+<em></em> italic emphases
+<a></a> hyperlink eg <a href="https://www.w3schools.com">
+herf =this attribute spacify the value of the web address.
+  <p>A <a href="https://www.w3schools.com" title="abcd" target="_blank">link</a> to my favorite website.</p>//use case of title 
+<img src="">
+
+<meta> //Data about Data
+
+
+<style></style> for internal CSS file
+
+<a href="http://www.google.com" title="Isn't this fun?"><img src="https://www.gstatic.com/webp/gallery/4.sm.jpg"></a>///an image with link
+
+
+///how to enter special charctor referance  
+&lt;//< small L smmall T
+&gt;//>
+&quot;//"
+&apos;//'
+&amp;//&
+<meta charset="utf-8">
+
+<meta name="author" content="Chris Mills">
+<meta name="description" content="The MDN Web Docs Learning Area aims to provide
+complete beginners to the Web with all they need to know to get
+started with developing web sites and applications.">////this content will show up in browserwhen someone will search about website name etc eg MDN web docs in this case .
+
+How to use CSS AND JAVASCRIPT WITH HTML
+
+<link rel="" herf =" ">///rel="stylesheet", which indicates that it is the documents stylesheet
+////href, which contains the path_ to the stylesheet file:
+////link_ has to be head_ of the Document 
+
+
+
+<script>////this tag is often better to be kept on bottam of the document body
+
+
+<pre>
+Text in a pre element
+is displayed in a fixed-width
+font, and it preserves
+both      spaces and
+line breaks
+</pre>
+
+
+<q></q> ///for the cotation mark;
+
+
+<iframe src="https://www.w3schools.com" height="200" width="300"></iframe>
+
+<ol>\
+<li>
+</li>
+</ol>
+
+<ul>
+<li>
+</li>
+</ul>
+
+
+<b>
+<i>
+<u>
+
+
+
+<u style ="text Decoration Line: underline ; text-Decoration-Style: wavy">spel</u>better

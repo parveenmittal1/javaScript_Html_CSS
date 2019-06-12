@@ -1,0 +1,21 @@
+function whatIsThis(){
+	console.log(this)
+}
+
+
+var person={
+	firstName:"parveen",
+	lastName:"Kumar",
+	whatIsThis: function{console.log(this)
+	greetFunction: function{console.log(this.lastName+" "+this.firstName)}}
+
+};
+person.whatIsThis();
+person.greetFunction();
+
+var student = {
+	firstName: 'jack'
+	lastName: 'john'
+};
+student.greetFunction=person.greetFunction;
+student.greetFunction();

@@ -1,0 +1,16 @@
+git checkout master
+git branch --set-upstream-to=origin/master
+
+
+
+
+{ 
+"PHN":"+919040664424",
+"WRL":[
+      {
+      "WRD":"ABSCOND",
+      "MEN":"TO LEAVE WITHOUT NOTICE"
+      },
+      ..........
+      ​]
+}
